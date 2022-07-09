@@ -749,7 +749,7 @@ a {
 }
 .cid-sylnjlKMx6 .dropdown-menu,
 .cid-sylnjlKMx6 .navbar.opened {
-  background: #ffffff !important;
+  background: #fcff00 !important;
 }
 .cid-sylnjlKMx6 .nav-item:focus,
 .cid-sylnjlKMx6 .nav-link:focus {
@@ -784,7 +784,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #ffffff;
+  background: #fcff00;
 }
 .cid-sylnjlKMx6 .navbar.opened {
   transition: all 0.3s;
@@ -924,7 +924,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-sylnjlKMx6 .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #fcff00;
 }
 .cid-sylnjlKMx6 .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1027,7 +1027,7 @@ a {
   }
 }
 .cid-sylqXTzhci {
-  background-image: url("../../../assets/images/background15.jpg");
+  background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
 }
 .cid-sylqXTzhci .social-row .soc-item {
   display: inline-block;
@@ -1047,10 +1047,18 @@ a {
   background-color: #232323;
   color: #ffffff;
 }
+.cid-sylqXTzhci .mbr-section-title {
+  color: #ffffff;
+}
+.cid-sylqXTzhci .mbr-text,
+.cid-sylqXTzhci .mbr-section-btn,
+.cid-sylqXTzhci .social-row {
+  color: #ffffff;
+}
 .cid-syx0gntnzh {
   padding-top: 3rem;
   padding-bottom: 2rem;
-  background-color: #ffffff;
+  background-color: #fcff00;
 }
 .cid-syx0gntnzh .video-wrapper iframe {
   width: 100%;
@@ -1063,7 +1071,7 @@ a {
 .cid-syx3SmKNi3 {
   padding-top: 6rem;
   padding-bottom: 2rem;
-  background-image: url("../../../assets/images/background3.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1080.png");
 }
 .cid-syx3SmKNi3 img,
 .cid-syx3SmKNi3 .item-img {
@@ -1099,7 +1107,7 @@ a {
   margin-top: auto !important;
 }
 .cid-syx3SmKNi3 .mbr-section-title {
-  color: #ffffff;
+  color: #e43f3f;
 }
 .cid-syx3SmKNi3 .mbr-text,
 .cid-syx3SmKNi3 .mbr-section-btn {
@@ -1114,7 +1122,7 @@ a {
 .cid-syx2W8OvzL {
   padding-top: 3rem;
   padding-bottom: 0rem;
-  background-color: #ffffff;
+  background-color: #fcff00;
 }
 .cid-syx2W8OvzL .item {
   padding-bottom: 2rem;
@@ -1365,7 +1373,7 @@ a {
 .cid-syxaiykwPx {
   padding-top: 2rem;
   padding-bottom: 1rem;
-  background-color: #ffffff;
+  background-color: #e43f3f;
 }
 .cid-syxaiykwPx .top-line {
   display: flex;
@@ -1380,7 +1388,7 @@ a {
 }
 .cid-syxaiykwPx .card-wrapper {
   border-radius: 4px;
-  background-color: #fafafa;
+  background-color: #ffffff;
 }
 .cid-syxaiykwPx .image-wrapper img {
   width: 100%;
@@ -1402,10 +1410,13 @@ a {
     padding-right: 4rem;
   }
 }
+.cid-syxaiykwPx .mbr-section-title {
+  color: #ffffff;
+}
 .cid-syxdtxfN7g {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  background-color: #ffffff;
+  background-color: #fcff00;
 }
 .cid-syxdtxfN7g .line {
   background-color: #6592e6;
@@ -1416,7 +1427,7 @@ a {
 .cid-syxdGhCuhi {
   padding-top: 1rem;
   padding-bottom: 0rem;
-  background-color: #ffffff;
+  background-color: #fcff00;
 }
 .cid-syxdGhCuhi img,
 .cid-syxdGhCuhi .item-img {
@@ -1473,7 +1484,7 @@ a {
 .cid-syxg7V2udB {
   padding-top: 3rem;
   padding-bottom: 1rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
 }
 .cid-syxg7V2udB .item {
   padding-bottom: 2rem;
@@ -1726,10 +1737,13 @@ a {
 .cid-syxg7V2udB H6 {
   text-align: center;
 }
+.cid-syxg7V2udB H3 {
+  color: #ffffff;
+}
 .cid-syPFDzQoH4 {
   padding-top: 1rem;
   padding-bottom: 2rem;
-  background-color: #ffffff;
+  background-color: #fcff00;
 }
 .cid-syPFDzQoH4 .mbr-iconfont {
   display: block;
@@ -1739,7 +1753,7 @@ a {
 }
 .cid-syPFDzQoH4 .card-wrapper {
   padding: 3rem;
-  background: #fafafa;
+  background: #ffffff;
   border-radius: 4px;
 }
 @media (max-width: 992px) {
@@ -1755,7 +1769,7 @@ a {
 .cid-syPGid75QO {
   padding-top: 2rem;
   padding-bottom: 3rem;
-  background: #ffffff;
+  background-image: url("../../../assets/images/mbr-1920x1080.png");
 }
 .cid-syPGid75QO .google-map {
   height: 30rem;
@@ -1785,7 +1799,7 @@ a {
 .cid-syPT2AZNnr {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #ffffff;
+  background-color: #fcff00;
   overflow: hidden;
 }
 .cid-syPT2AZNnr .media-container-row .mbr-text {
